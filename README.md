@@ -1,4 +1,4 @@
-# Pset_2_uvv_cc3m_pillow
+# Pset_2
 
 ## Ciência da Computação UVV
 **Aluno:** Guilherme Araujo Lopes 

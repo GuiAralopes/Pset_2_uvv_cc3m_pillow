@@ -19,9 +19,17 @@ todas as imagens estão disponíveis na pasta [meu_teste](https://github.com/Gui
 ### QUESTÃO 01:
 
 Se você passar essa imagem pelo filtro de inversão, qual seria o output esperado? Justifique sua resposta.
+- altura: 1
+- largura: 4
+- pixels: [29, 89, 136, 200]
 
-Espera-se que o filtro de inversão relita os pixels e que as cores deles se invertam, tendo áreas mais pretas ficando brancas e brancas se tornando pretas
+Espera-se que o filtro de inversão relita os pixels e que as cores deles sejam seu inverso, retornando: 
+ 
+- pixels: [226, 166, 119, 55]
 
+tendo áreas mais pretas ficando brancas e brancas se tornando pretas:
+
+#### Outro exemplo:
 ![mushroom](https://github.com/GuiAralopes/Pset_2_uvv_cc3m_pillow/blob/main/test_images/meu_teste/mushroom.png)
 ![inverted_mushroom](https://github.com/GuiAralopes/Pset_2_uvv_cc3m_pillow/blob/main/test_images/meu_teste/inverter_cogumelo.png)
 
